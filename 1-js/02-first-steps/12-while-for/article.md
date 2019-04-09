@@ -206,7 +206,7 @@ Please note that the two `for` semicolons `;` must be present. Otherwise, there 
 
 Normally, a loop exits when its condition becomes falsy.
 
-But we can force the exit at any time using the special `break` directive.
+But we can force to exit at any time using the special `break` directive.
 
 For example, the loop below asks the user for a series of numbers, "breaking" when no number is entered:
 
